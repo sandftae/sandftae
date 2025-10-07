@@ -23,18 +23,19 @@ I do both backend and frontend (UI components + JS components), except CSS.
 
 **Tools and Services:**
 
-![MySQL](https://img.shields.io/badge/DBMS-MySQL-informational?&logo=mysql&logoColor=yellow)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=#2496ED&color=2496ED)
-![Jenkins](https://img.shields.io/badge/Deployment-Jenkins-informational?style=flat&logo=jenkins&logoColor=#D24939)
-![RabbitMQ](https://img.shields.io/badge/Service-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=#FF6600)
+![MySQL](https://img.shields.io/badge/DBMS-MySQL-informational?&logo=mysql&logoColor=4479A1&color=4479A1)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
+![Jenkins](https://img.shields.io/badge/Deployment-Jenkins-informational?style=flat&logo=jenkins&logoColor=D24939&color=D24939)
+![RabbitMQ](https://img.shields.io/badge/Service-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=FF6600&color=FF6600)
 ![Redis](https://img.shields.io/badge/Caching-Redis-informational?style=flat&logo=redis&color=FF4438)
 ![Varnish](https://img.shields.io/badge/Caching-Varnish-informational?style=flat)
-![ElasticSearch](https://img.shields.io/badge/Search_Engine-ElasticSearch-informational?style=flat&logo=elasticsearch&color=005571)
-![GitHub](https://img.shields.io/badge/VCS-GitHub-informational?&logo=github&logoColor=#181717&style=flat&color=181717)
-![GitLab](https://img.shields.io/badge/VCS-GitLab-informational?&logo=gitlab&logoColor=#FC6D26&color=FC6D26&style=flat)
-![Bitbucket](https://img.shields.io/badge/VCS-Bitbucket-informational?&logo=bitbucket&logoColor=#0052CC)
-![GraphQL](https://img.shields.io/badge/Service-GraphQL-informational?&logo=graphql&logoColor=#E10098)
-![Dgraph](https://img.shields.io/badge/Service-Dgraph-informational?&logo=dgraph&logoColor=#E50695)
+![ElasticSearch](https://img.shields.io/badge/Search_Engine-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=005571&color=005571)
+![OpenSearch](https://img.shields.io/badge/Search_Engine-OpenSearch-informational?style=flat&logo=opensearch&logoColor=005EB8&color=005EB8)
+![GitHub](https://img.shields.io/badge/VCS-GitHub-informational?&logo=github&logoColor=181717&style=flat&color=181717)
+![GitLab](https://img.shields.io/badge/VCS-GitLab-informational?&logo=gitlab&logoColor=FC6D26&color=FC6D26&style=flat)
+![Bitbucket](https://img.shields.io/badge/VCS-Bitbucket-informational?&logo=bitbucket&logoColor=0052CC&color=0052CC)
+![GraphQL](https://img.shields.io/badge/Service-GraphQL-informational?&logo=graphql&logoColor=E10098&color=E10098)
+![Dgraph](https://img.shields.io/badge/Service-Dgraph-informational?&logo=dgraph&logoColor=E50695&color=E50695)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 ## 🗂️ Highlights:
