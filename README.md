@@ -6,8 +6,8 @@ I do both backend and frontend (UI components + JS components), except CSS.
 **Platform:**
 
 ![Adobe Commerce / Magento](https://img.shields.io/badge/Platform-Magento_/_Adobe_Commerce-ED2224?logo=framework&logoColor=white)
-![ui_omponents](https://img.shields.io/badge/Components-Magento_/_Adobe_Commerce_UI_Component-ED2224?&logoColor=#005FAD)
-![js_components](https://img.shields.io/badge/Components-Magento_/_Adobe_Commerce_JS_Component-ED2224?&logoColor=#005FAD)
+![ui_omponents](https://img.shields.io/badge/Components-Magento_/_Adobe_Commerce_UI_Component-ED2224?logo=framework&logoColor=white)
+![js_components](https://img.shields.io/badge/Components-Magento_/_Adobe_Commerce_JS_Component-ED2224?logo=framework&logoColor=white)
 
 **Languages:**
 
@@ -25,21 +25,17 @@ I do both backend and frontend (UI components + JS components), except CSS.
 
 ![MySQL](https://img.shields.io/badge/DBMS-MySQL-informational?&logo=mysql&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=#2496ED&color=2496ED)
+![Jenkins](https://img.shields.io/badge/Deployment-Jenkins-informational?style=flat&logo=jenkins&logoColor=#D24939)
+![RabbitMQ](https://img.shields.io/badge/Service-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=#FF6600)
+![Redis](https://img.shields.io/badge/Caching-Redis-informational?style=flat&logo=redis&color=FF4438)
+![Varnish](https://img.shields.io/badge/Caching-Varnish-informational?style=flat)
+![ElasticSearch](https://img.shields.io/badge/Search_Engine-ElasticSearch-informational?style=flat&logo=elasticsearch&color=005571)
 ![GitHub](https://img.shields.io/badge/VCS-GitHub-informational?&logo=github&logoColor=#181717&style=flat&color=181717)
-![GitLab](https://img.shields.io/badge/VCS-GitLab-informational?&logo=gitlab&logoColor=#FC6D26&color=FC6D26&style=flat&)
+![GitLab](https://img.shields.io/badge/VCS-GitLab-informational?&logo=gitlab&logoColor=#FC6D26&color=FC6D26&style=flat)
 ![Bitbucket](https://img.shields.io/badge/VCS-Bitbucket-informational?&logo=bitbucket&logoColor=#0052CC)
 ![GraphQL](https://img.shields.io/badge/Service-GraphQL-informational?&logo=graphql&logoColor=#E10098)
 ![Dgraph](https://img.shields.io/badge/Service-Dgraph-informational?&logo=dgraph&logoColor=#E50695)
-![Jenkins](https://img.shields.io/badge/Deployment-Jenkins-informational?style=flat&logo=jenkins&logoColor=#D24939)
-![RabbitMQ](https://img.shields.io/badge/Service-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=#FF6600)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-![Figma](https://img.shields.io/badge/Service-Figma-informational?style=flat&logo=figma&color=F24E1E)
-![Postman](https://img.shields.io/badge/Service-Postman-informational?style=flat&logo=postman&color=FF6C37)
-
-**Others:**
-
-![HTML](https://img.shields.io/badge/Markup-HTML-orange?logo=html5&logoColor=#E34F26)
-![XML](https://img.shields.io/badge/Markup-XML-35495E?&logoColor=#005FAD)
 
 ## 🗂️ Highlights:
 
