@@ -47,18 +47,15 @@ I do both backend and frontend (UI components + JS components), except CSS.
 </a>
 
 ## 🏆 Some stats:
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandftae&show_icons=true&locale=en&layout=compact" alt="sandftae_1" /></p> -->
 <p><img align="rigth" src="https://github-profile-trophy.vercel.app/?username=sandftae&rank=S,AAA&show_icons=true&locale=en&layout=compact" alt="sandftae_3"/></p>
 
-##  :page_facing_up:/:envelope: Resume and Connect:
+##  :page_facing_up:/:envelope: CV and Connect:
 
 <span align="left">
   <a href="https://www.linkedin.com/in/ihor-v-36041996/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </span>  
 <span align="right">
-  <a href="https://resume.io/r/QdYn2micL"><img alt="resume" target="_blank" src="https://img.shields.io/badge/Resume-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+  <a href="https://resume.io/r/QdYn2micL"><img alt="resume" target="_blank" src="https://img.shields.io/badge/Check_CV-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=red" /></a>
 </span>
-
-
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sandftae&label=Profile%20views&color=0e75b6&style=flat" alt="sandftae" /></p>
