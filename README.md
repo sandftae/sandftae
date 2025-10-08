@@ -30,10 +30,12 @@ I do both backend and frontend (UI components + JS components), except CSS.
 ![Redis](https://img.shields.io/badge/Caching-Redis-informational?style=flat&logo=redis&color=FF4438)
 ![Varnish](https://img.shields.io/badge/Caching-Varnish-informational?style=flat)
 ![ElasticSearch](https://img.shields.io/badge/Search_Engine-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=005571&color=005571)
-![OpenSearch](https://img.shields.io/badge/Search_Engine-OpenSearch-informational?style=flat&logo=opensearch&logoColor=005EB8&color=005EB8)
+![Git](https://img.shields.io/badge/VCS-Git-informational?&logo=git&logoColor=F05032&style=flat&color=F05032)
 ![GitHub](https://img.shields.io/badge/VCS-GitHub-informational?&logo=github&logoColor=181717&style=flat&color=181717)
 ![GitLab](https://img.shields.io/badge/VCS-GitLab-informational?&logo=gitlab&logoColor=FC6D26&color=FC6D26&style=flat)
 ![Bitbucket](https://img.shields.io/badge/VCS-Bitbucket-informational?&logo=bitbucket&logoColor=0052CC&color=0052CC)
+![Composer](https://img.shields.io/badge/DMS-Composer-informational?style=flat&logo=composer&logoColor=white&color=885630)
+![Npm](https://img.shields.io/badge/DMS-Npm-informational?style=flat&logo=npm&logoColor=CB3837&color=CB3837)
 ![GraphQL](https://img.shields.io/badge/Service-GraphQL-informational?&logo=graphql&logoColor=E10098&color=E10098)
 ![Dgraph](https://img.shields.io/badge/Service-Dgraph-informational?&logo=dgraph&logoColor=E50695&color=E50695)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
@@ -58,6 +60,5 @@ I do both backend and frontend (UI components + JS components), except CSS.
 </span>
 
 
-<p></p>
-<p></p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sandftae&label=Profile%20views&color=0e75b6&style=flat" alt="sandftae" /></p>
