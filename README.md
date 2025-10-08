@@ -40,14 +40,11 @@ I do both backend and frontend (UI components + JS components), except CSS.
 ![Dgraph](https://img.shields.io/badge/Service-Dgraph-informational?&logo=dgraph&logoColor=E50695&color=E50695)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-## 🗂️ Highlights:
 
-<a href="https://github.com/sandftae/php-b-tree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sandftae&repo=php-b-tree&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="php-b-tree" />
-</a>
+## 🗂️ Highlights & Some Stats:
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sandftae&repo=php-b-tree&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="php-b-tree" /><img height=180 width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandftae&layout=compact" alt="sandftae_1" /><img align="left" src="https://github-profile-trophy.vercel.app/?username=sandftae&rank=S,AAA&show_icons=true&locale=en&layout=compact&column=-1&margin-w=15" alt="sandftae_3"/>
 
-## 🏆 Some stats:
-<p><img align="rigth" src="https://github-profile-trophy.vercel.app/?username=sandftae&rank=S,AAA&show_icons=true&locale=en&layout=compact" alt="sandftae_3"/></p>
+![Profile Activities](./profile-3d-contrib/profile-green-animate.svg)
 
 ##  :page_facing_up:/:envelope: CV and Connect:
 
