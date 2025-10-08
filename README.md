@@ -5,8 +5,8 @@ I do both backend and frontend (UI components + JS components), except CSS.
 ## 🔧 Technologies & Tools
 **Platform:**
 
-![Adobe Commerce / Magento](https://img.shields.io/badge/Platform-Magento_/_Adobe_Commerce-ED2224?logo=framework&logoColor=white)
-![ui_omponents](https://img.shields.io/badge/Components-Magento_/_Adobe_Commerce_UI_Component-ED2224?logo=framework&logoColor=white)
+![Adobe Commerce / Magento](https://img.shields.io/badge/Platform-Magento_/_Adobe_Commerce-ED2224?logo=framework&logoColor=white)<br/>
+![ui_omponents](https://img.shields.io/badge/Components-Magento_/_Adobe_Commerce_UI_Component-ED2224?logo=framework&logoColor=white)<br/>
 ![js_components](https://img.shields.io/badge/Components-Magento_/_Adobe_Commerce_JS_Component-ED2224?logo=framework&logoColor=white)
 
 **Languages:**
