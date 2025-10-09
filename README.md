@@ -42,7 +42,7 @@ I do both backend and frontend (UI components + JS components), except CSS.
 
 
 ## 🗂️ Highlights & Some Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sandftae&repo=php-b-tree&show_icons=true&line_height=27&title_color=black&text_color=black&icon_color=black&bg_color=white" alt="php-b-tree" /><img height=180 width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandftae&layout=compact" alt="sandftae_1" /><img align="left" src="https://github-profile-trophy.vercel.app/?username=sandftae&rank=S,AAA&show_icons=true&locale=en&layout=compact&column=-1&margin-w=15" alt="sandftae_3"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sandftae&repo=php-b-tree&show_icons=true&line_height=27&title_color=black&text_color=black&icon_color=black&bg_color=white" alt="php-b-tree" /><img height=180 width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandftae&layout=compact" alt="sandftae_1" /><img align="left" src="https://github-profile-trophy.vercel.app/?username=sandftae&rank=S,AAA&show_icons=true&locale=en&layout=compact&column=1&row=2&margin-w=5&margin-h=5" alt="sandftae_3"/>
 
 ![Profile Activities](./profile-3d-contrib/profile-green-animate.svg)
 
