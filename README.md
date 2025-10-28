@@ -1,6 +1,12 @@
 ## Hi there 👋
-I'm a **Magento/Adobe Commerce Back-End Developer** with **over six years of experience** in web development on the Magento 2 / Adobe Commerce platform. During my professional career, I`ve created numerous solutions and modules for B2C and B2B customers based on Magento 2.x.x. I am a responsible team member passionate about self-development and improving my technical skills.
-I do both backend and frontend (UI components + JS components), except CSS.
+I'm a  **Senior Magento 2 / Adobe Commerce Back-End Developer** with over **6+ years** of commercial experience in developing and optimizing eCommerce solutions for both B2B and B2C businesses.
+
+Throughout my career, I’ve created numerous custom modules, API integrations, and performance optimizations that improved checkout experience, user engagement, and scalability.
+
+Although my core expertise lies in **back-end (PHP)**, I’m also **experienced with Magento Front-End (JavaScript, Adobe Commerce UI Components, and Adobe Commerce JS Components)**, enabling me to work effectively across both back-end and front-end layers.
+
+I’m passionate about clean architecture, maintainable code, and continuous self-development. I value clear communication, teamwork, and technical excellence.
+
 
 ## 🔧 Technologies & Tools
 **Platform:**
