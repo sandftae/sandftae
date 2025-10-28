@@ -7,6 +7,7 @@ Although my core expertise lies in **back-end (PHP)**, I’m also **experienced 
 
 I’m passionate about clean architecture, maintainable code, and continuous self-development. I value clear communication, teamwork, and technical excellence.
 
+💡 **Open to opportunities** as a **Magento 2 / Adobe Commerce Developer (Back-End, Full-Stack, or Solution Engineer roles) / PHP Developer**
 
 ## 🔧 Technologies & Tools
 **Platform:**
