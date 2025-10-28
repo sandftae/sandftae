@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a  **Senior Magento 2 / Adobe Commerce Back-End Developer** with over **6+ years** of commercial experience in developing and optimizing eCommerce solutions for both B2B and B2C businesses.
+I'm a  **Senior Magento 2 / Adobe Commerce Back-End Developer** with over **6+ years** of commercial experience, **having worked on 15+ projects**, in developing and optimizing eCommerce solutions for both B2B and B2C businesses.
 
 Throughout my career, I’ve created numerous custom modules, API integrations, and performance optimizations that improved checkout experience, user engagement, and scalability.
 
@@ -13,8 +13,8 @@ I’m passionate about clean architecture, maintainable code, and continuous sel
 **Platform:**
 
 ![Adobe Commerce / Magento](https://img.shields.io/badge/Platform-Magento_2_/_Adobe_Commerce-ED2224?logo=framework&logoColor=white)<br/>
-![ui_omponents](https://img.shields.io/badge/Components-Magento_2/_Adobe_Commerce_UI_Component-ED2224?logo=framework&logoColor=white)<br/>
-![js_components](https://img.shields.io/badge/Components-Magento_2/_Adobe_Commerce_JS_Component-ED2224?logo=framework&logoColor=white)
+![ui_omponents](https://img.shields.io/badge/Components-Magento_2_UI_Component_/_Adobe_Commerce_UI_Component-ED2224?logo=framework&logoColor=white)<br/>
+![js_components](https://img.shields.io/badge/Components-Magento_2_JS_Component_/_Adobe_Commerce_JS_Component-ED2224?logo=framework&logoColor=white)
 
 **Languages:**
 
