@@ -59,7 +59,7 @@ I’m passionate about clean architecture, maintainable code, and continuous sel
   <a href="https://www.linkedin.com/in/vovk-ihor/" target="_blank"><img src="https://img.shields.io/badge/-See_My_LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </span>  
 <span align="right">
-  <a href="https://resume.io/r/QdYn2micL"><img alt="PLEASE_REFRESH_THE_PAGE" target="_blank" src="https://img.shields.io/badge/See_&_Download_My_CV_/_RESUME-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=red" /></a>
+  <a href="https://resume.io/r/QdYn2micL"><img alt="PLEASE_REFRESH_THE_PAGE" target="_blank" src="https://img.shields.io/badge/See_My_CV_/_RESUME-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=red" /></a>
 </span>
 
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=sandftae&label=Profile%20views&color=0e75b6&style=flat" alt="PLEASE_REFRESH_THE_PAGE" /></p> -->
