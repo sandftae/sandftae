@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a  **Senior Magento 2 / Adobe Commerce Back-End Developer** with over **6+ years** of commercial experience, **having worked on 15+ projects**, in developing and optimizing eCommerce solutions for both B2B and B2C businesses.
+I'm a  **Senior Magento 2 / Adobe Commerce Back-End Developer** with over **7+ years** of commercial experience, **having worked on 15+ projects**, in developing and optimizing eCommerce solutions for both B2B and B2C businesses.
 
 Throughout my career, I’ve created numerous custom modules, API integrations, and performance optimizations that improved checkout experience, user engagement, and scalability.
 
