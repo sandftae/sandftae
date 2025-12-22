@@ -49,8 +49,8 @@ I’m passionate about clean architecture, maintainable code, and continuous sel
 
 
 ## 🗂️ Highlights & Some Stats:
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sandftae&repo=php-b-tree&show_icons=true&line_height=27&title_color=black&text_color=black&icon_color=black&bg_color=white" alt="PLEASE_REFRESH_THE_PAGE" /><img height=180 width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandftae&layout=compact" alt="PLEASE_REFRESH_THE_PAGE" /> -->
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=sandftae&rank=S,AAA&show_icons=true&locale=en&layout=compact&column=-1&margin-w=5&margin-h=5" alt="PLEASE_REFRESH_THE_PAGE"/>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sandftae&repo=php-b-tree&show_icons=true&line_height=27&title_color=black&text_color=black&icon_color=black&bg_color=white" alt="PLEASE_REFRESH_THE_PAGE" /><img height=180 width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandftae&layout=compact" alt="PLEASE_REFRESH_THE_PAGE" /> 
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=sandftae&rank=S,AAA&show_icons=true&locale=en&layout=compact&column=-1&margin-w=5&margin-h=5" alt="PLEASE_REFRESH_THE_PAGE"/> -->
 
 ![Profile Activities](./profile-3d-contrib/profile-green-animate.svg)
 
